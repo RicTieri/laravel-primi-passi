@@ -8,6 +8,7 @@
 <body>
     <header>
         <h1>{{$title}}</h1>
+        <a href="http://127.0.0.1:8000/detail">More info</a>
     </header>
     <main>
         <p>{{$content}}</p>
